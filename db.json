@@ -26,7 +26,7 @@
       "artist": "Andrey Remnev",
       "date":"1999",
       "where":"bogota"
-    }
+    },
     {
       "id": 4,
       "title":"Mona Lisa",
@@ -35,7 +35,7 @@
       "artist":"Leonardo da Vinci",
       "date":"1503 to 1519",
       "where":"Louvre Museum (Paris)"
-    }
+    },
     {
       "id": 5,
       "title":"The last supper",
@@ -44,8 +44,8 @@
       "artist":"Leonardo da Vinci",
       "date":"1495 to 1498",
       "where":"Santa Maria delle Grazie (Milan, Italy)"
-    }
-{
+    },
+    {
       "id": 6,
       "title":"The starry night",
       "description":"The comparatively abstract painting is the signature example of van Gogh's innovative and bold use of thick brushstrokes. The painting's striking blues and yellows and the dreamy, swirling atmosphere have intrigued art lovers for decades.",
@@ -53,8 +53,8 @@
       "artist":"Vincent van Gogh",
       "date":"1889",
       "where":"Museum of Modern Art (New York City)"
-    }
-{
+    },
+    {
       "id": 7,
       "title": "The scream",
       "description":"First things first -- The Scream is not a single work of art. According to a British Museum's blog, there are two paintings, two pastels and then an unspecified number of prints. The paintings reside in the National Museum and the Munch Museum, and in 2012, one of the pastels sold for almost $120 million at auction.",
@@ -62,8 +62,8 @@
       "artist":"Edvard Munch",
       "date":"1893",
       "where":"National Museum (Oslo, Norway -- opening in 2020) and Munch Museum (Oslo -- through May 2020)"
-    }
-{
+    },
+    {
       "id": 8,
       "title":"Guernica",
       "description":"This is the most recent painting on this list, and it depicts the German aerial bombing of the town of Guernica in the Basque region during the Spanish Civil War. The painting has that distinctive Picasso style, and its unflinching examination of the horrors of war made it an essential part of 20th century culture and history.",
@@ -71,8 +71,8 @@
       "artist":"Pablo Picasso",
       "date":"1937",
       "where":"Museo Reina Sofía (Madrid)"
-    }
-{
+    },
+    {
       "id": 9,
       "title":"The kiss",
       "description":"With No. 6, we move from a study in hate to a study in love with Gustav Klimt's beloved The Kiss. From Klimt's Golden Period, Byzantine artistic influences can be seen in the highly decorative robes worn by the passionate, life-sized couple.The Upper Belvedere says that with The Kiss, Klimt makes a general allegorical statement about love being at the heart of human existence. Given its magnetic appeal, it seems people agree.",
@@ -80,8 +80,8 @@
       "artist":"Gustav Klimt",
       "date":"1907 to 1908",
       "where":"Upper Belvedere museum (Vienna, Austria)"
-    }
-{
+    },
+    {
       "id": 10,
       "title":"The Birth of Venus",
       "description":"The oldest painting in the top 10 and competing with The Kiss for most sensuous, The Birth of Venus was probably commissioned by a member of the wealthy and art-loving Medici family, which ruled Florence and nearby areas for centuries. Marrying a renewed interest in classic Greek culture with Early Renaissance style, Botticelli creates an unforgettable figure with the Goddess of Love emerging from a huge scallop shell.",
@@ -89,8 +89,8 @@
       "artist":"Sandro Botticelli",
       "date":"1485",
       "where":"Le Gallerie Degli Uffizi (Florence, Italy)"
-    }
-{
+    },
+    {
       "id": 11,
       "title":"Las meninas",
       "description":"Madrid is the only city in this roundup where you'll find two of the most 10 famous paintings, the first being Guernica at No. 5 and Las Maninas here at No. 9. Housed at the popular (and vast) Prado, Las Meninas is not only Diego Velázquez`s most famous painting, it's also one of his largest. The complexity of the work has fascinated art critics and the public for centuries.",
@@ -98,8 +98,8 @@
       "artist":"Diego Velázquez",
       "date":"1656",
       "where":"Museo del Prado (Madrid)"
-    }
-{
+    },
+    {
       "id": 12,
       "title":"Creation of Adam",
       "description":"The most famous work by renowned artist Michelangelo covers a section of the Sistine Chapel's ceiling -- you have to look up to view it. The scene depicts God and Adam with outstretched arms, their fingers nearly touching. It is one of the most replicated images in history. Adam's muscular form hints at Michelangelo's other talent -- his David is possibly the world's most famous sculpture. You can see the towering marble statue at the Galleria dell'Accademia in Florence.",
