@@ -4,7 +4,11 @@
       "id": 1,
       "title": "The swing",
       "description": "The painting depicts an elegantly dressed young woman on a swing. A smiling young man, hiding in the bushes below and to the left, points towards her billowing dress with hat in hand. A smiling older man, who is nearly hidden in the shadows on the right, propels the swing with a pair of ropes, as a small white dog barks nearby. The lady is wearing a bergère hat (shepherdess hat), as she flings her shoe with an outstretched left foot. Two statues are present, one of a putto, who watches from above the young man on the left with its finger in front of its lips, the other of two putti is on the right beside the older man.",
-      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fragonard%2C_The_Swing.jpg/1200px-Fragonard%2C_The_Swing.jpg",
+      "url":[
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fragonard%2C_The_Swing.jpg/1200px-Fragonard%2C_The_Swing.jpg",
+        "https://live.staticflickr.com/4144/5208595555_dd42e147ba_b.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Fragonard%2C_The_Swing%2C_Wallace_Collection_in_situ.jpg"
+      ],
       "artist": "Jean-Honoré Fragonard",
       "date":"1999",
       "where":"bogota",
