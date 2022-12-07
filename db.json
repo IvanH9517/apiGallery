@@ -19,47 +19,75 @@
       "id": 2,
       "title": "girl whit a pear earring",
       "description": "The painting is a tronie, the Dutch 17th-century description of a 'head' that was not meant to be a portrait. It depicts a European girl wearing exotic dress, an oriental turban, and what appears to be a very large pearl as an earring.[1] In 2014, Dutch astrophysicist Vincent Icke [nl] raised doubts about the material of the earring and argued that it looks more like polished tin than pearl on the grounds of the specular reflection, the pear shape and the large size of the earring.",
-      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Johannes_Vermeer_%281632-1675%29_-_The_Girl_With_The_Pearl_Earring_%281665%29.jpg/1200px-Johannes_Vermeer_%281632-1675%29_-_The_Girl_With_The_Pearl_Earring_%281665%29.jpg",
+      "url":[
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Johannes_Vermeer_%281632-1675%29_-_The_Girl_With_The_Pearl_Earring_%281665%29.jpg/1200px-Johannes_Vermeer_%281632-1675%29_-_The_Girl_With_The_Pearl_Earring_%281665%29.jpg",
+        "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/04/28/32919.jpg",
+        "https://static01.nyt.com/images/2018/02/26/arts/26VERMEER-01/merlin_133937862_8e17a0cf-0ebe-4031-ba54-fc7924ada5dd-jumbo.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Den_Haag_-_Mauritshuis_-_Room_15_-_Johannes_Vermeer_%281632-1675%29_-_Girl_with_a_Pearl_Earring_c._1665_c.jpg/2560px-Den_Haag_-_Mauritshuis_-_Room_15_-_Johannes_Vermeer_%281632-1675%29_-_Girl_with_a_Pearl_Earring_c._1665_c.jpg"
+      ],
       "artist": "Johannes Vermeer",
       "date":"1999",
-      "where":"bogota",
-      "pagina":1
+      "where":"Mauritshuis (Den Haag, Netherlands)",
+      "pagina":1,
+      "mapa":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9807.848244698638!2d4.3143013!3d52.0804205!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb981504e502da55c!2sMauritshuis!5e0!3m2!1ses-419!2sco!4v1670429588330!5m2!1ses-419!2sco"
     },
     {
       "id": 3,
       "title": "The unplaiting of the hair",
       "description": "A true discovery, the Russian painter Andrey Remnev. Of course, the man couldn't be more outdated, but I deduce that he doesn't give a damn and that they can give to modernity (and to the West: the guy refuses to leave Russia) as long as he has icons left Religious medieval in which to be inspired.",
-      "url":"https://arthur.io/img/art/jpg/00017344d7b24b30c/andrey-remnev/the-unplaiting-of-the-hair/large/andrey-remnev--the-unplaiting-of-the-hair.jpg",
+      "url":[
+        "https://arthur.io/img/art/jpg/00017344d7b24b30c/andrey-remnev/the-unplaiting-of-the-hair/large/andrey-remnev--the-unplaiting-of-the-hair.jpg",
+        "https://res.cloudinary.com/miles-extranet-dev/image/upload/w_800,h_480,c_fill/Arkansas/migration_photos/3987/960-crystal_bridges_museum_of_american_art__bentonville_8285",
+        "https://images.crystalbridges.org/uploads/2021/05/cb-homepage-event-thumb.jpg?resize=640%2C400&gravity"
+      ],
       "artist": "Andrey Remnev",
-      "date":"1999",
-      "where":"bogota",
-      "pagina":1
+      "date":"1997",
+      "where":"Crystal Bridges Museum of American Art (Bentonville, USA)",
+      "pagina":1,
+      "mapa":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12848.518785857994!2d-94.2026525!3d36.3818542!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xad260359e45b143b!2sCrystal%20Bridges%20Museum%20of%20American%20Art!5e0!3m2!1ses-419!2sco!4v1670430656272!5m2!1ses-419!2sco"
     },
     {
       "id": 4,
       "title":"Mona Lisa",
       "description":"The sitter in the painting is thought to be Lisa Gherardini, the wife of Florence merchant Francesco del Giocondo, but experts aren't sure. It did represent an innovation in art -- the painting is the earliest known Italian portrait to focus so closely on the sitter in a half-length portrait, according to the Louvre, where it was first installed in 1804.",
-      "url":"https://historia.nationalgeographic.com.es/medio/2018/06/11/01-mona-lisa-marco-gioconda-louvre_2d7f91a1.jpg",
+      "url":[
+        "https://historia.nationalgeographic.com.es/medio/2018/06/11/01-mona-lisa-marco-gioconda-louvre_2d7f91a1.jpg",
+        "https://cdn-imgix.headout.com/mircobrands-content/image/696dd8fde9c991cb1b63f69f1ddd6635-mona%20lisa%20louvre.jpeg",
+        "https://cdn.contexttravel.com/image/upload/v1659016063/blog/5%20Louvre%20Artworks%20You%20Missed%20in%20the%20Mona%20Lisa%20Room/natalie_lawer_context_employee_image_mona_lisa.jpg",
+        "https://img.remediosdigitales.com/42d76a/gioconda/1366_2000.jpeg",
+        "https://cdn-imgix.headout.com/mircobrands-content/image/4e9ebbf7ff686d29a41f4af39e8386ea-louvre%20museum.jpg?auto=compress%2Cformat&h=573&q=75&fit=crop&ar=16%3A9&fm=webp"
+      ],
       "artist":"Leonardo da Vinci",
       "date":"1503 to 1519",
       "where":"Louvre Museum (Paris)",
-      "pagina":1
+      "pagina":1,
+      "mapa":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10499.496405115677!2d2.337644!3d48.8606111!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb975fcfa192f84d4!2sMuseo%20del%20Louvre!5e0!3m2!1ses-419!2sco!4v1670430857172!5m2!1ses-419!2sco"
     },
     {
       "id": 5,
       "title":"The last supper",
       "description":"Painted in an era when religious imagery was still a dominant artistic theme, The Last Supper depicts the last time Jesus broke bread with his disciples before his crucifixion. The painting is actually a huge fresco -- 4.6 meters (15 feet) high and 8.8 meters (28.9 feet) wide, which makes for a memorable viewing.",
-      "url":"https://www.sightseeingtoursitaly.com/wp-content/uploads/2019/05/Last-Supper-1.jpg",
+      "url":[
+        "https://www.sightseeingtoursitaly.com/wp-content/uploads/2019/05/Last-Supper-1.jpg",
+        "https://www.inexhibit.com/wp-content/uploads/2017/11/Ultima-Cena-Last-Supper-Leonardo-da-Vinci-MIlano.jpg",
+        "https://cenacolovinciano.org/wp-content/uploads/2020/09/Museo-cenacolo-vinciano-news-unesco-855x482-1.jpg"
+      ],
       "artist":"Leonardo da Vinci",
       "date":"1495 to 1498",
       "where":"Santa Maria delle Grazie (Milan, Italy)",
-      "pagina":1
+      "pagina":1,
+      "mapa":"<https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11192.762654758344!2d9.1709621!3d45.465963!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xed5bcdc4d3c75a59!2sSanta%20Maria%20delle%20Grazie!5e0!3m2!1ses-419!2sco!4v1670430964471!5m2!1ses-419!2sco"
     },
     {
       "id": 6,
       "title":"The starry night",
       "description":"The comparatively abstract painting is the signature example of van Gogh's innovative and bold use of thick brushstrokes. The painting's striking blues and yellows and the dreamy, swirling atmosphere have intrigued art lovers for decades.",
       "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "url":[
+        "",
+        "",
+        ""
+      ],
       "artist":"Vincent van Gogh",
       "date":"1889",
       "where":"Museum of Modern Art (New York City)",
@@ -70,6 +98,11 @@
       "title": "The scream",
       "description":"First things first -- The Scream is not a single work of art. According to a British Museum's blog, there are two paintings, two pastels and then an unspecified number of prints. The paintings reside in the National Museum and the Munch Museum, and in 2012, one of the pastels sold for almost $120 million at auction.",
       "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg/1620px-Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg",
+      "url":[
+        "",
+        "",
+        ""
+      ],
       "artist":"Edvard Munch",
       "date":"1893",
       "where":"National Museum (Oslo, Norway -- opening in 2020) and Munch Museum (Oslo -- through May 2020)",
@@ -80,6 +113,11 @@
       "title":"Guernica",
       "description":"This is the most recent painting on this list, and it depicts the German aerial bombing of the town of Guernica in the Basque region during the Spanish Civil War. The painting has that distinctive Picasso style, and its unflinching examination of the horrors of war made it an essential part of 20th century culture and history.",
       "url":"https://static5.museoreinasofia.es/sites/default/files/obras/DE00050.jpg",
+      "url":[
+        "",
+        "",
+        ""
+      ],
       "artist":"Pablo Picasso",
       "date":"1937",
       "where":"Museo Reina Sofía (Madrid)",
@@ -90,6 +128,11 @@
       "title":"The kiss",
       "description":"With No. 6, we move from a study in hate to a study in love with Gustav Klimt's beloved The Kiss. From Klimt's Golden Period, Byzantine artistic influences can be seen in the highly decorative robes worn by the passionate, life-sized couple.The Upper Belvedere says that with The Kiss, Klimt makes a general allegorical statement about love being at the heart of human existence. Given its magnetic appeal, it seems people agree.",
       "url":"https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FNOpIAwQa-3r51Cg9qXKbfA%2Fnormalized.jpg&width=782",
+      "url":[
+        "",
+        "",
+        ""
+      ],
       "artist":"Gustav Klimt",
       "date":"1907 to 1908",
       "where":"Upper Belvedere museum (Vienna, Austria)",
@@ -100,6 +143,11 @@
       "title":"The Birth of Venus",
       "description":"The oldest painting in the top 10 and competing with The Kiss for most sensuous, The Birth of Venus was probably commissioned by a member of the wealthy and art-loving Medici family, which ruled Florence and nearby areas for centuries. Marrying a renewed interest in classic Greek culture with Early Renaissance style, Botticelli creates an unforgettable figure with the Goddess of Love emerging from a huge scallop shell.",
       "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/640px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+      "url":[
+        "",
+        "",
+        ""
+      ],
       "artist":"Sandro Botticelli",
       "date":"1485",
       "where":"Le Gallerie Degli Uffizi (Florence, Italy)",
@@ -110,6 +158,11 @@
       "title":"Las meninas",
       "description":"Madrid is the only city in this roundup where you'll find two of the most 10 famous paintings, the first being Guernica at No. 5 and Las Maninas here at No. 9. Housed at the popular (and vast) Prado, Las Meninas is not only Diego Velázquez`s most famous painting, it's also one of his largest. The complexity of the work has fascinated art critics and the public for centuries.",
       "url":"https://historia.nationalgeographic.com.es/medio/2020/05/26/las-meninas-01_102d7581_1200x630.jpg",
+      "url":[
+        "",
+        "",
+        ""
+      ],
       "artist":"Diego Velázquez",
       "date":"1656",
       "where":"Museo del Prado (Madrid)",
@@ -120,6 +173,11 @@
       "title":"Creation of Adam",
       "description":"The most famous work by renowned artist Michelangelo covers a section of the Sistine Chapel's ceiling -- you have to look up to view it. The scene depicts God and Adam with outstretched arms, their fingers nearly touching. It is one of the most replicated images in history. Adam's muscular form hints at Michelangelo's other talent -- his David is possibly the world's most famous sculpture. You can see the towering marble statue at the Galleria dell'Accademia in Florence.",
       "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/1200px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
+      "url":[
+        "",
+        "",
+        ""
+      ],
       "artist":"Michelangelo",
       "date":"1508 to 1512",
       "where":"Sistine Chapel (Vatican City)",
