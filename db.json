@@ -11,8 +11,9 @@
       ],
       "artist": "Jean-Honoré Fragonard",
       "date":"1999",
-      "where":"The Wallace Collection, London, UK",
-      "pagina":1
+      "where":"The Wallace Collection (London, UK)",
+      "pagina":1,
+      "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d43866.226551360436!2d-0.20859864870586514!3d51.5059022940903!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc11d6276bbfec573!2sColecci%C3%B3n%20Wallace!5e0!3m2!1ses-419!2sco!4v1670425569352!5m2!1ses-419!2sco+ width=+950+ height=+350+ style=+border:0;+ allowfullscreen=++ loading=+lazy+ referrerpolicy=+no-referrer-when-downgrade+"
     },
     {
       "id": 2,
