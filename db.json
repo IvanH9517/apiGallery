@@ -107,50 +107,5 @@
       "date":"1893",
       "where":"National Museum (Oslo, Norway -- opening in 2020) and Munch Museum (Oslo -- through May 2020)",
       "pagina":1
-    },
-    {
-      "id": 8,
-      "title":"Guernica",
-      "description":"This is the most recent painting on this list, and it depicts the German aerial bombing of the town of Guernica in the Basque region during the Spanish Civil War. The painting has that distinctive Picasso style, and its unflinching examination of the horrors of war made it an essential part of 20th century culture and history.",
-      "url":"https://static5.museoreinasofia.es/sites/default/files/obras/DE00050.jpg",
-      "url":[
-        "",
-        "",
-        ""
-      ],
-      "artist":"Pablo Picasso",
-      "date":"1937",
-      "where":"Museo Reina Sofía (Madrid)",
-      "pagina":1
-    },
-    {
-      "id": 9,
-      "title":"The kiss",
-      "description":"With No. 6, we move from a study in hate to a study in love with Gustav Klimt's beloved The Kiss. From Klimt's Golden Period, Byzantine artistic influences can be seen in the highly decorative robes worn by the passionate, life-sized couple.The Upper Belvedere says that with The Kiss, Klimt makes a general allegorical statement about love being at the heart of human existence. Given its magnetic appeal, it seems people agree.",
-      "url":"https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FNOpIAwQa-3r51Cg9qXKbfA%2Fnormalized.jpg&width=782",
-      "url":[
-        "",
-        "",
-        ""
-      ],
-      "artist":"Gustav Klimt",
-      "date":"1907 to 1908",
-      "where":"Upper Belvedere museum (Vienna, Austria)",
-      "pagina":1
-    },
-    {
-      "id": 10,
-      "title":"The Birth of Venus",
-      "description":"The oldest painting in the top 10 and competing with The Kiss for most sensuous, The Birth of Venus was probably commissioned by a member of the wealthy and art-loving Medici family, which ruled Florence and nearby areas for centuries. Marrying a renewed interest in classic Greek culture with Early Renaissance style, Botticelli creates an unforgettable figure with the Goddess of Love emerging from a huge scallop shell.",
-      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/640px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
-      "url":[
-        "",
-        "",
-        ""
-      ],
-      "artist":"Sandro Botticelli",
-      "date":"1485",
-      "where":"Le Gallerie Degli Uffizi (Florence, Italy)",
-      "pagina":2
     }
   ]
