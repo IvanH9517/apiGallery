@@ -92,20 +92,6 @@
       "date":"1889",
       "where":"Museum of Modern Art (New York City)",
       "pagina":1
-    },
-    {
-      "id": 7,
-      "title": "The scream",
-      "description":"First things first -- The Scream is not a single work of art. According to a British Museum's blog, there are two paintings, two pastels and then an unspecified number of prints. The paintings reside in the National Museum and the Munch Museum, and in 2012, one of the pastels sold for almost $120 million at auction.",
-      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg/1620px-Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg",
-      "url":[
-        "",
-        "",
-        ""
-      ],
-      "artist":"Edvard Munch",
-      "date":"1893",
-      "where":"National Museum (Oslo, Norway -- opening in 2020) and Munch Museum (Oslo -- through May 2020)",
-      "pagina":1
     }
   ]
+}
